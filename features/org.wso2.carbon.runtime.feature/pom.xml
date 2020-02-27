@@ -153,8 +153,8 @@
                         <configuration>
                             <target>
                                 <delete dir="src/main/resources" />
-                                <delete dir="src/main" />
-                                <delete dir="src" />
+                                <!--<delete dir="src/main" />-->
+                                <!--<delete dir="src" />-->
                             </target>
                         </configuration>
                         <goals>
